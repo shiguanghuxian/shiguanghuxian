@@ -1,6 +1,6 @@
 ### 时光弧线
 
-这是一段介绍
+主要编程语言GO，关注微服务，关注Flutter，致力于app开发整套技术栈。
 
 ### 🛠 技术栈 | Tech Stack
 
@@ -11,7 +11,6 @@
 ![Redis](https://img.shields.io/badge/Redis-3-red)
 ![Etcd](https://img.shields.io/badge/Etcd-3-blue)
 ![Shell](https://img.shields.io/badge/Bash-Shell-lightgrey)
-- ...
 
 ### 开源项目
 - [Etcd V3管理UI](https://github.com/etcd-manage)
