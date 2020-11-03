@@ -21,4 +21,6 @@
 
 ### 我在 GitHub 上的统计
 
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=shiguanghuxian&show_icons=true)](https://github.com/shiguanghuxian)
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=shiguanghuxian&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/shiguanghuxian)
+
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=etcd-manage&show_icons=true)](https://github.com/shiguanghuxian)
