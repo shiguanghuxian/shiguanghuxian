@@ -4,7 +4,7 @@
 
 ### 🛠 技术栈 | Tech Stack
 
-- 💻 &#160; ![Go](https://img.shields.io/badge/Go-Lang-green)
+- &#160; ![Go](https://img.shields.io/badge/Go-Lang-green)
 ![Vue](https://img.shields.io/badge/Vue-Web-brightgreen)
 ![Flutter](https://img.shields.io/badge/Flutter-App-lightblue?style=flat&logo=Linux&logoColor=FCC624)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
@@ -17,7 +17,6 @@
 - [GRPC微服务框架](https://github.com/micro-kit)
 - [常用docker-compose](https://github.com/shiguanghuxian/docker-compose)
 - [TCP基础库](https://github.com/shiguanghuxian/tcplibrary)
-- ...
 
 ### 我在 GitHub 上的统计
 
@@ -27,5 +26,5 @@
 
 #### Langs
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shiguanghuxian)](https://github.com/anuraghazra/shiguanghuxian)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shiguanghuxian&layout=compact)](https://github.com/anuraghazra/shiguanghuxian)
 
