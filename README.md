@@ -1,16 +1,25 @@
-### Hi there 👋
+### 时光弧线
 
-<!--
-**shiguanghuxian/shiguanghuxian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+这是一段介绍
 
-Here are some ideas to get you started:
+### 🛠 技术栈 | Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 &#160; ![Go](https://img.shields.io/badge/Go-Lang-green)
+![Vue](https://img.shields.io/badge/Vue-Web-brightgreen)
+![Flutter](https://img.shields.io/badge/Flutter-App-lightblue?style=flat&logo=Linux&logoColor=FCC624)
+![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+![Redis](https://img.shields.io/badge/Redis-3-red)
+![Etcd](https://img.shields.io/badge/Etcd-3-blue)
+![Shell](https://img.shields.io/badge/Bash-Shell-lightgrey)
+- ...
+
+### 开源项目
+- [Etcd V3管理UI](https://github.com/etcd-manage)
+- [GRPC微服务框架](https://github.com/micro-kit)
+- [常用docker-compose](https://github.com/shiguanghuxian/docker-compose)
+- [TCP基础库](https://github.com/shiguanghuxian/tcplibrary)
+- ...
+
+### 我在 GitHub 上的统计
+
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=shiguanghuxian&show_icons=true)](https://github.com/shiguanghuxian)
