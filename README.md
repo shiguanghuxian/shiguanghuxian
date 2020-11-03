@@ -4,7 +4,7 @@
 
 ### 🛠 技术栈 | Tech Stack
 
-- &#160; ![Go](https://img.shields.io/badge/Go-Lang-green)
+![Go](https://img.shields.io/badge/Go-Lang-green)
 ![Vue](https://img.shields.io/badge/Vue-Web-brightgreen)
 ![Flutter](https://img.shields.io/badge/Flutter-App-lightblue?style=flat&logo=Linux&logoColor=FCC624)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
