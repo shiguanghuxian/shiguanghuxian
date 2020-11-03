@@ -20,11 +20,8 @@
 
 ### 我在 GitHub 上的统计
 
-#### Stats
-
+<p align="center">
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=shiguanghuxian&show_icons=true)](https://github.com/shiguanghuxian)
-
-#### Langs
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shiguanghuxian&layout=compact)](https://github.com/anuraghazra/shiguanghuxian)
+</p>
 
