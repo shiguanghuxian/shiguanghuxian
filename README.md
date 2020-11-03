@@ -21,7 +21,7 @@
 ### 我在 GitHub 上的统计
 
 <p align="center">
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=shiguanghuxian&show_icons=true)](https://github.com/shiguanghuxian)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shiguanghuxian&layout=compact)](https://github.com/anuraghazra/shiguanghuxian)
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=shiguanghuxian&show_icons=true" alt="My Github Stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shiguanghuxian&layout=compact" alt="My Github Langs">
 </p>
 
