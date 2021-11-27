@@ -22,6 +22,6 @@
 
 <p>
   <img align="center" width="55%" src="https://github-readme-stats.vercel.app/api?username=shiguanghuxian&show_icons=true" alt="My Github Stats">
-  <img align="center" width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shiguanghuxian&layout=compact&langs_count=8" alt="My Github Langs">
+  <img align="center" width="39%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shiguanghuxian&layout=compact&langs_count=8" alt="My Github Langs">
 </p>
 
