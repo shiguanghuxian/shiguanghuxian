@@ -21,7 +21,7 @@
 ### 我在 GitHub 上的统计
 
 <p>
-  <img align="center" width="60%" src="https://github-readme-stats.vercel.app/api?username=shiguanghuxian&show_icons=true" alt="My Github Stats">
-  <img align="center" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shiguanghuxian&layout=compact&langs_count=8" alt="My Github Langs">
+  <img align="center" width="55%" src="https://github-readme-stats.vercel.app/api?username=shiguanghuxian&show_icons=true" alt="My Github Stats">
+  <img align="center" width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shiguanghuxian&layout=compact&langs_count=8" alt="My Github Langs">
 </p>
 
