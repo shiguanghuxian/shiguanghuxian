@@ -2,7 +2,7 @@
 
 主要编程语言GO，关注微服务，关注Flutter，致力于app开发整套技术栈。
 
-### 🛠 技术栈 | Tech Stack
+### 技术栈
 
 ![Go](https://img.shields.io/badge/Go-Lang-green)
 ![Vue](https://img.shields.io/badge/Vue-Web-brightgreen)
